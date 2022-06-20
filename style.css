@@ -1,0 +1,43 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(247, 192, 90);
+}
+
+#sertifikat {
+    background-color: #DAA520;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#skills .bar {
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 5px 0 20px 0;
+}
+
+.bar .nilai {
+    height: 30px;
+    background-color: #ffc400;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}
+
+.html {
+    width:70%;
+}
+
+.css {
+    width:70%;
+}
+
+.DesainGrafis {
+    width:75%;
+}
+
+.microsoft {
+    width:85%;
+}
